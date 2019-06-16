@@ -305,6 +305,15 @@ packaging as Debian:
 $ sudo apt-get install ripgrep
 ```
 
+If you're an **Ubuntu Xenial (16.04)** user, ripgrep source is
+[available](https://launchpad.net/ubuntu/+source/rust-ripgrep) and the packaging 
+as Debian package is available in [PPAs](https://launchpad.net/~jerem-ferry/+archive/ubuntu/rust) .
+So , add the custom PPA and install it as :
+
+```
+$ sudo apt-get install ripgrep
+```
+
 (N.B. Various snaps for ripgrep on Ubuntu are also available, but none of them
 seem to work right and generate a number of very strange bug reports that I
 don't know how to fix and don't have the time to fix. Therefore, it is no
