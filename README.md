@@ -306,8 +306,8 @@ $ sudo apt-get install ripgrep
 
 If you're an **Ubuntu Xenial (16.04)** user, ripgrep source is
 [available](https://launchpad.net/ubuntu/+source/rust-ripgrep) and the packaging 
-as Deb package is available in [PPAs](https://launchpad.net/~jerem-ferry/+archive/ubuntu/rust) .
-So , add the custom PPA and install it as :
+as debian package is at [PPAs](https://launchpad.net/~jerem-ferry/+archive/ubuntu/rust).
+So,add the custom PPA and install it as:
 ```
 $ sudo add-apt-repository ppa:jerem-ferry/rust
 $ sudo apt-get update
