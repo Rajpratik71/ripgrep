@@ -300,16 +300,14 @@ $ sudo apt-get install ripgrep
 If you're an **Ubuntu Cosmic (18.10)** (or newer) user, ripgrep is
 [available](https://launchpad.net/ubuntu/+source/rust-ripgrep) using the same
 packaging as Debian:
-
 ```
 $ sudo apt-get install ripgrep
 ```
 
 If you're an **Ubuntu Xenial (16.04)** user, ripgrep source is
 [available](https://launchpad.net/ubuntu/+source/rust-ripgrep) and the packaging 
-as Debian package is available in [PPAs](https://launchpad.net/~jerem-ferry/+archive/ubuntu/rust) .
+as Deb package is available in [PPAs](https://launchpad.net/~jerem-ferry/+archive/ubuntu/rust) .
 So , add the custom PPA and install it as :
-
 ```
 $ sudo apt-get install ripgrep
 ```
